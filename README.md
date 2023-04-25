@@ -18,4 +18,5 @@ Materials on GitHub: https://github.com/TIBHannover/kesw-2023
 ## Exercises
 
 [Exercise 1](https://tibhannover.github.io/kesw-2023/exercises/Session_01.pdf)
-[Solution 1](ComingSoon)
+
+[Solution 1](https://media.giphy.com/media/1naXqFmZMHs6n1EXwe/giphy.gif)
