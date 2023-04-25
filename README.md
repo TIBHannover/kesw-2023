@@ -8,7 +8,7 @@ Time 10:45 -- 12:15 (90 mins)
 
 In-person sessions
 
-Materials on GitHub: https://github.com/TIBHannover/kesw-2023
+Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.com/TIBHannover/kesw-2023)
 
 ## Schedule 
 * Exercise 01 	    -- May 02, 2023
