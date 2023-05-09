@@ -12,7 +12,7 @@ Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.c
 
 ## Schedule 
 * Exercise 01 	    -- May 02, 2023 ✅
-* Exercise 02 	    -- May 09, 2023
+* Exercise 02 	    -- May 09, 2023 ✅
 * Exercise 03 	    -- May 16, 2023
 
 
@@ -24,4 +24,8 @@ Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.c
 
 [Exercise 2](https://tibhannover.github.io/kesw-2023/exercises/Session_02.pdf)
 
-[Solution 2](https://media.giphy.com/media/1naXqFmZMHs6n1EXwe/giphy.gif)
+[Solution 2](https://tibhannover.github.io/kesw-2023/solutions/Solution_02.pdf)
+
+[Exercise 3](https://tibhannover.github.io/kesw-2023/exercises/Session_03.pdf)
+
+[Solution 3](https://media.giphy.com/media/1naXqFmZMHs6n1EXwe/giphy.gif)
