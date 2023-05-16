@@ -4,7 +4,7 @@
 ## Announcements
 Exercises are weekly (See schedule for dates)
 
-Time 10:45 -- 12:15 (90 mins)
+Time 10:45 -- 11:30 (45 mins)
 
 In-person sessions
 
@@ -13,7 +13,9 @@ Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.c
 ## Schedule 
 * Exercise 01 	    -- May 02, 2023 ✅
 * Exercise 02 	    -- May 09, 2023 ✅
-* Exercise 03 	    -- May 16, 2023
+* Exercise 03 	    -- May 16, 2023 ✅
+* Exercise 04 	    -- May 23, 2023
+* Exercise 05 	    -- Jun 06, 2023
 
 
 ## Exercises
@@ -28,4 +30,8 @@ Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.c
 
 [Exercise 3](https://tibhannover.github.io/kesw-2023/exercises/Session_03.pdf)
 
-[Solution 3](https://media.giphy.com/media/1naXqFmZMHs6n1EXwe/giphy.gif)
+[Solution 3](https://tibhannover.github.io/kesw-2023/solutions/Solution_03.pdf)
+
+[Exercise 4](https://tibhannover.github.io/kesw-2023/exercises/Session_04.pdf)
+
+[Solution 4](https://media.giphy.com/media/1naXqFmZMHs6n1EXwe/giphy.gif)
