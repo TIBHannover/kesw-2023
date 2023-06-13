@@ -1,0 +1,50 @@
+@prefix ex:<http://example.org#> .
+@prefix rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:<http://www.w3.org/2001/XMLSchema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+ex:p1   ex:name   "John"@en;
+        ex:salary   "23000"^^xsd:integer;
+        ex:birthYear   "1989"^^xsd:integer;
+        ex:friendWith   ex:p3;
+        ex:knows   ex:p2,ex:p4;
+        ex:workingStatus   "fullTime";
+        ex:jobTitle   ex:Programmer;
+        ex:nationality   ex:American;
+        ex:email   "john@fake.com";
+        ex:workingProject   ex:pr1.
+ex:p2   ex:name   "Jens"@de;
+        ex:salary   "43000"^^xsd:integer;
+        ex:birthYear   "1977"^^xsd:integer;
+        ex:knows   ex:p1, ex:p3, ex:p4;
+        ex:workingStatus   "fullTime";
+        ex:jobTitle   ex:Manager;
+        ex:nationality   ex:German;
+        ex:workingProject   ex:pr2.
+ex:p3   ex:name   "Hamed"@de;
+        ex:salary   "8000"^^xsd:integer;
+        ex:birthYear   "1995"^^xsd:integer;ex:friendWith   ex:p1;
+        ex:knows   ex:p2;
+        ex:workingStatus   "partTime";
+        ex:jobTitle   ex:Programmer;
+        ex:nationality   ex:Iranian;
+        ex:email   "hamed@fake.com";
+        ex:workingProject   ex:pr2.
+ex:p4   ex:name   "Dean"@en;
+        ex:salary   "24000"^^xsd:integer;
+        ex:birthYear   "1963"^^xsd:integer;
+        ex:knows   ex:p1, ex:p2;
+        ex:workingStatus   "Retired";
+        ex:jobTitle   ex:Manager;
+        ex:nationality   ex:American;
+        ex:workingProject   ex:pr2.
+ex:pr1   a   ex:Project;
+         ex:startYear   "2013"^^xsd:gYear;
+         ex:supervisor   ex:p4;
+         ex:headWorker   ex:p1.
+ex:pr2   a   ex:Project;
+         ex:supervisor   ex:p2;
+         ex:advisor   ex:p3.
+ex:hedaWorker   rdfs:subClassOf   ex:Manager.
+ex:friendWith   rdfs:subPropertyOf   ex:knows;
+                a   owl:symmetricProperty.
