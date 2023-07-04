@@ -18,8 +18,8 @@ Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.c
 * Exercise 05 	    -- June 13, 2023    ✅
 * Exercise 06 	    -- June 20, 2023    ✅
 * Exercise 07 	    -- June 27, 2023    ✅
-* Exercise 08 	    -- July 04, 2023
-* Mock Exam 	    -- July 11, 2023   ??
+* Exercise 08 	    -- July 04, 2023    ✅
+* Mock Exam 	    -- July 11, 2023    ??
 
 
 ## Exercises
@@ -32,4 +32,4 @@ Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.c
 |[Exercise 4](https://tibhannover.github.io/kesw-2023/exercises/Session_04.pdf) | [Solution 4](https://tibhannover.github.io/kesw-2023/solutions/Solution_04.pdf)|
 |[Exercise 5](https://tibhannover.github.io/kesw-2023/exercises/Session_05.pdf) | [Solution 5](https://tibhannover.github.io/kesw-2023/solutions/Solution_05.pdf)|
 |[Exercise 6](https://tibhannover.github.io/kesw-2023/exercises/Session_06.pdf) | [Solution 6](https://tibhannover.github.io/kesw-2023/solutions/Solution_06.pdf)|
-|[Exercise 7](https://tibhannover.github.io/kesw-2023/exercises/Session_07.pdf) | [Solution 7](https://media.giphy.com/media/1naXqFmZMHs6n1EXwe/giphy.gif)|
+|[Exercise 7](https://tibhannover.github.io/kesw-2023/exercises/Session_07.pdf) | [Solution 7](https://tibhannover.github.io/kesw-2023/solutions/Solution_07.pdf)|
