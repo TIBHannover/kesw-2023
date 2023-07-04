@@ -33,3 +33,6 @@ Materials on GitHub: [https://github.com/TIBHannover/kesw-2023](https://github.c
 |[Exercise 5](https://tibhannover.github.io/kesw-2023/exercises/Session_05.pdf) | [Solution 5](https://tibhannover.github.io/kesw-2023/solutions/Solution_05.pdf)|
 |[Exercise 6](https://tibhannover.github.io/kesw-2023/exercises/Session_06.pdf) | [Solution 6](https://tibhannover.github.io/kesw-2023/solutions/Solution_06.pdf)|
 |[Exercise 7](https://tibhannover.github.io/kesw-2023/exercises/Session_07.pdf) | [Solution 7](https://tibhannover.github.io/kesw-2023/solutions/Solution_07.pdf)|
+
+## Extra
+A triple across the Semantic Web Stack ([check me!](https://tibhannover.github.io/kesw-2023/RDF_Stack_Example.pdf))
